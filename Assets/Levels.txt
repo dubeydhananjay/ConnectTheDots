@@ -1,0 +1,415 @@
+{
+	"Levels": {
+		"Level1": [{
+				"ColorNode": "RedCircle1",
+				"TileParent": "T0"
+			},
+			{
+				"ColorNode": "RedCircle2",
+				"TileParent": "T15"
+			},
+			{
+				"ColorNode": "BlueCircle1",
+				"TileParent": "T11"
+			},
+			{
+				"ColorNode": "BlueCircle2",
+				"TileParent": "T4"
+			},
+			{
+				"ColorNode": "YellowCircle1",
+				"TileParent": "T20"
+			},
+			{
+				"ColorNode": "YellowCircle2",
+				"TileParent": "T16"
+			},
+			{
+				"ColorNode": "GreenCircle1",
+				"TileParent": "T7"
+			},
+			{
+				"ColorNode": "GreenCircle2",
+				"TileParent": "T18"
+			},
+			{
+				"ColorNode": "PurpleCircle1",
+				"TileParent": "T12"
+			},
+			{
+				"ColorNode": "PurpleCircle2",
+				"TileParent": "T9"
+			}
+		],
+		"Level2": [{
+				"ColorNode": "RedCircle1",
+				"TileParent": "T24"
+			},
+			{
+				"ColorNode": "RedCircle2",
+				"TileParent": "T6"
+			},
+			{
+				"ColorNode": "BlueCircle1",
+				"TileParent": "T12"
+			},
+			{
+				"ColorNode": "BlueCircle2",
+				"TileParent": "T1"
+			},
+			{
+				"ColorNode": "YellowCircle1",
+				"TileParent": "T21"
+			},
+			{
+				"ColorNode": "YellowCircle2",
+				"TileParent": "T0"
+			},
+			{
+				"ColorNode": "GreenCircle1",
+				"TileParent": "T13"
+			},
+			{
+				"ColorNode": "GreenCircle2",
+				"TileParent": "T4"
+			},
+			{
+				"ColorNode": "PurpleCircle1",
+				"TileParent": "T18"
+			},
+			{
+				"ColorNode": "PurpleCircle2",
+				"TileParent": "T9"
+			}
+		],
+		"Level3": [{
+				"ColorNode": "RedCircle1",
+				"TileParent": "T10"
+			},
+			{
+				"ColorNode": "RedCircle2",
+				"TileParent": "T12"
+			},
+			{
+				"ColorNode": "BlueCircle1",
+				"TileParent": "T14"
+			},
+			{
+				"ColorNode": "BlueCircle2",
+				"TileParent": "T21"
+			},
+			{
+				"ColorNode": "YellowCircle1",
+				"TileParent": "T18"
+			},
+			{
+				"ColorNode": "YellowCircle2",
+				"TileParent": "T8"
+			},
+			{
+				"ColorNode": "GreenCircle1",
+				"TileParent": "T20"
+			},
+			{
+				"ColorNode": "GreenCircle2",
+				"TileParent": "T17"
+			},
+			{
+				"ColorNode": "PurpleCircle1",
+				"TileParent": "T7"
+			},
+			{
+				"ColorNode": "PurpleCircle2",
+				"TileParent": "T9"
+			}
+		],
+		"Level4": [{
+				"ColorNode": "RedCircle1",
+				"TileParent": "T11"
+			},
+			{
+				"ColorNode": "RedCircle2",
+				"TileParent": "T3"
+			},
+			{
+				"ColorNode": "BlueCircle1",
+				"TileParent": "T23"
+			},
+			{
+				"ColorNode": "BlueCircle2",
+				"TileParent": "T20"
+			},
+			{
+				"ColorNode": "YellowCircle1",
+				"TileParent": "T12"
+			},
+			{
+				"ColorNode": "YellowCircle2",
+				"TileParent": "T2"
+			},
+			{
+				"ColorNode": "GreenCircle1",
+				"TileParent": "T24"
+			},
+			{
+				"ColorNode": "GreenCircle2",
+				"TileParent": "T18"
+			},
+			{
+				"ColorNode": "PurpleCircle1",
+				"TileParent": "T13"
+			},
+			{
+				"ColorNode": "PurpleCircle2",
+				"TileParent": "T4"
+			}
+		],
+		"Level5": [{
+				"ColorNode": "RedCircle1",
+				"TileParent": "T20"
+			},
+			{
+				"ColorNode": "RedCircle2",
+				"TileParent": "T7"
+			},
+			{
+				"ColorNode": "BlueCircle1",
+				"TileParent": "T4"
+			},
+			{
+				"ColorNode": "BlueCircle2",
+				"TileParent": "T24"
+			},
+			{
+				"ColorNode": "YellowCircle1",
+				"TileParent": "T13"
+			},
+			{
+				"ColorNode": "YellowCircle2",
+				"TileParent": "T0"
+			},
+			{
+				"ColorNode": "GreenCircle1",
+				"TileParent": "T11"
+			},
+			{
+				"ColorNode": "GreenCircle2",
+				"TileParent": "T23"
+			},
+			{
+				"ColorNode": "PurpleCircle1",
+				"TileParent": "T16"
+			},
+			{
+				"ColorNode": "PurpleCircle2",
+				"TileParent": "T22"
+			}
+		],
+		"Level6": [{
+				"ColorNode": "RedCircle1",
+				"TileParent": "T3"
+			},
+			{
+				"ColorNode": "RedCircle2",
+				"TileParent": "T18"
+			},
+			{
+				"ColorNode": "BlueCircle1",
+				"TileParent": "T2"
+			},
+			{
+				"ColorNode": "BlueCircle2",
+				"TileParent": "T5"
+			},
+			{
+				"ColorNode": "YellowCircle1",
+				"TileParent": "T4"
+			},
+			{
+				"ColorNode": "YellowCircle2",
+				"TileParent": "T7"
+			},
+			{
+				"ColorNode": "GreenCircle1",
+				"TileParent": "T6"
+			},
+			{
+				"ColorNode": "GreenCircle2",
+				"TileParent": "T15"
+			},
+			{
+				"ColorNode": "PurpleCircle1",
+				"TileParent": "T16"
+			},
+			{
+				"ColorNode": "PurpleCircle2",
+				"TileParent": "T20"
+			}
+		],
+		"Level7": [{
+				"ColorNode": "RedCircle1",
+				"TileParent": "T10"
+			},
+			{
+				"ColorNode": "RedCircle2",
+				"TileParent": "T8"
+			},
+			{
+				"ColorNode": "BlueCircle1",
+				"TileParent": "T6"
+			},
+			{
+				"ColorNode": "BlueCircle2",
+				"TileParent": "T9"
+			},
+			{
+				"ColorNode": "YellowCircle1",
+				"TileParent": "T1"
+			},
+			{
+				"ColorNode": "YellowCircle2",
+				"TileParent": "T5"
+			},
+			{
+				"ColorNode": "GreenCircle1",
+				"TileParent": "T16"
+			},
+			{
+				"ColorNode": "GreenCircle2",
+				"TileParent": "T14"
+			},
+			{
+				"ColorNode": "PurpleCircle1",
+				"TileParent": "T15"
+			},
+			{
+				"ColorNode": "PurpleCircle2",
+				"TileParent": "T24"
+			}
+		],
+		"Level8": [{
+				"ColorNode": "RedCircle1",
+				"TileParent": "T0"
+			},
+			{
+				"ColorNode": "RedCircle2",
+				"TileParent": "T17"
+			},
+			{
+				"ColorNode": "BlueCircle1",
+				"TileParent": "T4"
+			},
+			{
+				"ColorNode": "BlueCircle2",
+				"TileParent": "T22"
+			},
+			{
+				"ColorNode": "YellowCircle1",
+				"TileParent": "T15"
+			},
+			{
+				"ColorNode": "YellowCircle2",
+				"TileParent": "T21"
+			},
+			{
+				"ColorNode": "GreenCircle1",
+				"TileParent": "T1"
+			},
+			{
+				"ColorNode": "GreenCircle2",
+				"TileParent": "T18"
+			},
+			{
+				"ColorNode": "PurpleCircle1",
+				"TileParent": "T6"
+			},
+			{
+				"ColorNode": "PurpleCircle2",
+				"TileParent": "T12"
+			}
+		],
+		"Level9": [{
+				"ColorNode": "RedCircle1",
+				"TileParent": "T11"
+			},
+			{
+				"ColorNode": "RedCircle2",
+				"TileParent": "T3"
+			},
+			{
+				"ColorNode": "BlueCircle1",
+				"TileParent": "T23"
+			},
+			{
+				"ColorNode": "BlueCircle2",
+				"TileParent": "T20"
+			},
+			{
+				"ColorNode": "YellowCircle1",
+				"TileParent": "T12"
+			},
+			{
+				"ColorNode": "YellowCircle2",
+				"TileParent": "T2"
+			},
+			{
+				"ColorNode": "GreenCircle1",
+				"TileParent": "T24"
+			},
+			{
+				"ColorNode": "GreenCircle2",
+				"TileParent": "T18"
+			},
+			{
+				"ColorNode": "PurpleCircle1",
+				"TileParent": "T13"
+			},
+			{
+				"ColorNode": "PurpleCircle2",
+				"TileParent": "T4"
+			}
+		],
+		"Level10": [{
+				"ColorNode": "RedCircle1",
+				"TileParent": "T20"
+			},
+			{
+				"ColorNode": "RedCircle2",
+				"TileParent": "T7"
+			},
+			{
+				"ColorNode": "BlueCircle1",
+				"TileParent": "T4"
+			},
+			{
+				"ColorNode": "BlueCircle2",
+				"TileParent": "T24"
+			},
+			{
+				"ColorNode": "YellowCircle1",
+				"TileParent": "T13"
+			},
+			{
+				"ColorNode": "YellowCircle2",
+				"TileParent": "T0"
+			},
+			{
+				"ColorNode": "GreenCircle1",
+				"TileParent": "T11"
+			},
+			{
+				"ColorNode": "GreenCircle2",
+				"TileParent": "T23"
+			},
+			{
+				"ColorNode": "PurpleCircle1",
+				"TileParent": "T16"
+			},
+			{
+				"ColorNode": "PurpleCircle2",
+				"TileParent": "T22"
+			}
+		]
+
+	}
+}
